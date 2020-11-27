@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d312a50-d966-4392-adcf-263699c5b8f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/location_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/location_screen.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jk1R4tbrcwtyqqzyDVFFxSmmq9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="scratch.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/scratch.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.scratch.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d312a50-d966-4392-adcf-263699c5b8f0" name="Default Changelist" comment="" />
+      <created>1604333263575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604333263575</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="891" height="206" key="GridCell.Tab.0.bottom" timestamp="1605618221070">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="891" height="206" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1605616563423" />
+    <state width="891" height="206" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1605614513257" />
+    <state width="891" height="206" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1605618221070" />
+    <state width="891" height="206" key="GridCell.Tab.0.center" timestamp="1605618221069">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="891" height="206" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1605616563422" />
+    <state width="891" height="206" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1605614513256" />
+    <state width="891" height="206" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1605618221069" />
+    <state width="891" height="206" key="GridCell.Tab.0.left" timestamp="1605618221069">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="891" height="206" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1605616563422" />
+    <state width="891" height="206" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1605614513256" />
+    <state width="891" height="206" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1605618221069" />
+    <state width="891" height="206" key="GridCell.Tab.0.right" timestamp="1605618221069">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="891" height="206" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1605616563422" />
+    <state width="891" height="206" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1605614513257" />
+    <state width="891" height="206" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1605618221069" />
+    <state x="639" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1606064845257">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="639" y="259" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1605616343627" />
+    <state x="639" y="259" key="com.intellij.ide.util.TipDialog/0.23.1440.804@0.23.1440.804" timestamp="1606064845257" />
+    <state x="639" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.806@0.23.1440.806" timestamp="1604460669659" />
+    <state x="639" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.808@0.23.1440.808" timestamp="1604333267599" />
+    <state x="713" y="192" key="run.anything.popup" timestamp="1604493851809">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="713" y="192" key="run.anything.popup/0.23.1440.804@0.23.1440.804" timestamp="1604493851809" />
+    <state x="678" y="153" width="670" height="676" key="search.everywhere.popup" timestamp="1604390250723">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="678" y="153" width="670" height="676" key="search.everywhere.popup/0.23.1440.806@0.23.1440.806" timestamp="1604390250723" />
+  </component>
+</project>
