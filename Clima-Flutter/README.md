@@ -1,7 +1,5 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
-
-# Clima ☁
+# Clima App
 
 ## Our Goal
 
@@ -22,6 +20,3 @@ The objective of this project is to impplement asynchronous programming in Dart.
 - Learn about the lifecycle of Stateful Widgets and how to override them.
 - How to use the Geolocator package to get live location data for both iOS and Android.
 - How to use the TextField Widget to take user input.
-
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
